@@ -50,6 +50,3 @@ All trained models are saved in the `Models/` directory. You can find your saved
 
 Contributions are welcome! Please open issues or submit pull requests.
 
-## License
-
-This project is licensed under the MIT License.
